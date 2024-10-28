@@ -1,6 +1,4 @@
-Here's a GitHub README file for your spam detection project, incorporating the details from your code and resume:
 
-```markdown
 # WhatsApp Spam Detection API with Flask and Twilio
 
 This project implements a RESTful API using Flask that can be integrated with Twilio to perform real-time spam detection on incoming WhatsApp messages. It uses a machine learning model trained on a spam dataset to classify messages and provide automated responses indicating spam probability. 
