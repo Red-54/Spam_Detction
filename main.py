@@ -14,7 +14,7 @@ global Vectorizer
 # Set your Twilio credentials here
 TWILIO_ACCOUNT_SID = 'xxxxx'  # Replace with your Twilio Account SID
 TWILIO_AUTH_TOKEN = 'xxxxx'    # Replace with your Twilio Auth Token
-TWILIO_PHONE_NUMBER = '+13344024450'  # Replace with your Twilio Phone Number
+TWILIO_PHONE_NUMBER = '+xxxxx'  # Replace with your Twilio Phone Number
 
 # Load data and train model
 data = pd.read_csv('spam.csv', encoding='latin-1')
