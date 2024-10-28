@@ -12,15 +12,6 @@ This project implements a RESTful API using Flask that can be integrated with Tw
 * **TF-IDF Vectorization:** Employs TfidfVectorizer for effective text preprocessing and feature extraction.
 * **RESTful API:**  Provides a simple and easy-to-use API endpoint for message classification.
 
-## Project Structure
-content_copy
-Use code with caution.
-Markdown
-
-├── main.py # Flask app for API and Twilio integration
-├── spam_detection.py # Machine learning model training and prediction
-└── spam.csv # Spam/Ham dataset used for training (ensure proper encoding)
-
 ## Installation and Setup
 
 1. **Clone the repository:**
